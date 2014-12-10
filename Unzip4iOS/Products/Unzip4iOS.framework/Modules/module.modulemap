@@ -1,0 +1,6 @@
+framework module Unzip4iOS {
+  umbrella header "Unzip4iOS.h"
+
+  export *
+  module * { export * }
+}
